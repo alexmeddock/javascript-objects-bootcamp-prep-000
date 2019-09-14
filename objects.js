@@ -1,1 +1,1 @@
-var playlist = {Taylor Swift: "You Need t"})
+var playlist = { taylorSwift: "You Need to Calm Down", hippoCampus: "vacation", theAvettBrothers: "Down with the Shine" };
